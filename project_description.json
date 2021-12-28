@@ -2,14 +2,37 @@
   "introduction":"Le théâtre romain de Guelma est un théâtre antique situé à Guelma en Algérie, fut édifié au début du iiie siècle, grâce au financement d'une prêtresse du culte impérial. Complètement détruit, il a été rebâti au début du xxe siècle, ce qui explique son excellent état.
 Aujourd'hui, le théâtre abrite le musée romain de Guelma.  ",
    
-   "image_links": ["https://drive.google.com/uc?export=download&id=1aCa9PUXq98njq1e4ea8ytamydkhgasjB",  
-                   "https://drive.google.com/uc?export=download&id=1DmWtVIr2yqZ--qeL9tXlpGPRj1r9SQ4v",
-                   "https://drive.google.com/uc?export=download&id=1QOUsgcl58b4M7QICdQKEHyh3WGucQcII",
-                   "https://drive.google.com/uc?export=download&id=1TU3xQb8kIiCLblEP5vkpww6lvDtl1Z3a",
-                    "https://drive.google.com/uc?export=download&id=1Ovilu9Ac0j0SfpHPRbRmRJmsRK49QdK0",
-                    "https://drive.google.com/uc?export=download&id=1wvjL3PxGpQ_u_RfcwB8-Xo7Ff_jCKZp7",
-                    "https://drive.google.com/uc?export=download&id=1yYrLDUIvmvslgHBHM9aeKmvFvtkMyESQ",
-                   "https://drive.google.com/uc?export=download&id=1U5R1qh621hpb_tuPendJnSpDFYL65ZaP"
-                  ]     
+   "image_links": [
+                      "https://drive.google.com/uc?export=download&id=1aCa9PUXq98njq1e4ea8ytamydkhgasjB",  
+                      "https://drive.google.com/uc?export=download&id=1DmWtVIr2yqZ--qeL9tXlpGPRj1r9SQ4v",
+                      "https://drive.google.com/uc?export=download&id=1QOUsgcl58b4M7QICdQKEHyh3WGucQcII",
+                      "https://drive.google.com/uc?export=download&id=1TU3xQb8kIiCLblEP5vkpww6lvDtl1Z3a",
+                      "https://drive.google.com/uc?export=download&id=1Ovilu9Ac0j0SfpHPRbRmRJmsRK49QdK0",
+                      "https://drive.google.com/uc?export=download&id=1wvjL3PxGpQ_u_RfcwB8-Xo7Ff_jCKZp7",
+                      "https://drive.google.com/uc?export=download&id=1yYrLDUIvmvslgHBHM9aeKmvFvtkMyESQ",
+                      "https://drive.google.com/uc?export=download&id=1U5R1qh621hpb_tuPendJnSpDFYL65ZaP"
+    ],
+    "project3dParts": [ 
+                          {
+                             "name": "Full Scene",
+                             "url" : "https://drive.google.com/uc?export=download&id=1yGCXtKGRPebfd3EdV7_GvGqJIEOEJ9HN"
+                          },      
+                          {
+                             "name": "Amphitheatre",
+                             "url" : "https://drive.google.com/uc?export=download&id=1Laf3XwLKnjTM_2t20GG_mkbKWgP80Cbn"
+                          },      
+                          {
+                             "name": "Stage",
+                             "url" : "https://drive.google.com/uc?export=download&id=1evEf4awgqZ_Y4PT0-Qx5h-Eqa6QhMe2U"
+                          },
+                          {
+                             "name": "Door",
+                             "url" : "https://drive.google.com/uc?export=download&id=1Pqf6AQXXIc38qA0Lder44rW4f1j_4Lky"
+                          },
+                          {
+                             "name": "Pillar",
+                             "url" : "https://drive.google.com/uc?export=download&id=1b0ZTmH3tcX7SMaxaeeNjC5Gt_C32mEKr"
+                          }      
+    ]
 }
 
